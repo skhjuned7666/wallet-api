@@ -1,4 +1,4 @@
-# 💰 Wallet API - Personal Finance Tracker (Backend)
+# 💰 Finance API - Personal Finance Tracker (Backend)
 
 A secure and scalable backend API built with **Node.js**, **Express**, and **MongoDB** to support a personal finance tracker app. This API manages user authentication, income/expense tracking, budgeting, and transaction history for individual users.
 
