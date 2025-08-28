@@ -3,8 +3,7 @@
 A secure and scalable backend API built with **Node.js**, **Express**, and **MongoDB** to support a personal finance tracker app. This API manages user authentication, income/expense tracking, budgeting, and transaction history for individual users.
 
 > 🔗 Frontend Repo: [skhjuned7666/wallet-app](https://github.com/skhjuned7666/wallet-app)  
-> 📱 Live App (Render): [Click to View](#) *(add your live link here if available)*
-
+> 📱 Live App (Render): [wallet-api-kq2t.skhjuned7666/onrender.com](https://wallet-api-kq2t.onrender.com)
 ---
 
 ## 🚀 Features
