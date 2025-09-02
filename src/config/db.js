@@ -2,6 +2,8 @@ import {neon} from "@neondatabase/serverless"
 
 import "dotenv/config";
 
+// process.env.NODE_TLS_REJECT_UNAUTHORIZED = "0";
+
 export const sql = neon(process.env.DATABASE_URL);
 
 export async function initDB() {

@@ -1,5 +1,7 @@
 {
   "expo": {
+    "name": "wallet-App",
+    "slug": "wallet-app",
     "extra": {
       "eas": {
         "projectId": "8863162d-62bb-4b85-9117-637964615c5f"
